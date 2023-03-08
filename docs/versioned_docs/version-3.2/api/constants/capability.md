@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Capability
 
-All Capability types are made available through the named export `Capability`:
+All *Capability* types are made available through the named export `Capability`:
 
 ```ts
 import { Capability } from 'react-native-track-player';
