@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 ---
-
+ 
 # Capability
 
 All Capability types are made available through the named export `Capability`:
